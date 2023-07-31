@@ -1,1 +1,1 @@
-# KP
+selama kerja praktik 3 bulan, berikut halaman web yang telah saya kerjakan. Saya selama KP bekerja dalam pengembangan satu web besar sehingga hanya bisa mencantumkan bukti pekerjaan yang telah saya lakukan saja
