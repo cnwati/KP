@@ -1,1 +1,1 @@
-selama kerja praktik 3 bulan, berikut halaman web yang telah saya kerjakan. Saya selama KP bekerja dalam pengembangan satu web besar sehingga hanya bisa mencantumkan bukti pekerjaan yang telah saya lakukan saja
+selama kerja praktik 3 bulan, berikut halaman web yang telah saya kerjakan. Saya selama KP bekerja dalam pengembangan satu web besar sehingga hanya bisa mencantumkan bukti pekerjaan yang telah saya lakukan saja. Teknologi yang digunakan ada bahasa PHP, HTML, bootstrap 5, Laravel 8
